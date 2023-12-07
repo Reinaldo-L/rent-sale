@@ -1,0 +1,34 @@
+
+#head{
+    background-color: blueviolet;
+}
+
+#body{
+    background-color: cadetblue;
+}
+
+
+.main-section {
+    background-image: url('../img/img-ghibli.webp');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.card {
+    height: 100px;
+    background-color: cadetblue;
+}
+
+.card img{
+    height: 250px;
+}
+
+.container {
+    background-color: darkcyan;
+}
